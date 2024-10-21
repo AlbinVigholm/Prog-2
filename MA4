@@ -1,0 +1,4 @@
+cd /år4/prog2/MA4
+$ git add MA4_files
+$ git commit -m "added files for MA4"
+$ git push
